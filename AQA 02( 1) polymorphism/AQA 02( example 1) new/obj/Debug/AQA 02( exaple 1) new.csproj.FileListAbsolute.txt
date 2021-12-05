@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\obj\Debug\AQA 02( exaple 1) new.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\obj\Debug\AQA 02( exaple 1) new.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\bin\Debug\AQA 02( exaple 1) new.exe.config
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\bin\Debug\AQA 02( exaple 1) new.exe
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\bin\Debug\AQA 02( exaple 1) new.pdb
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\obj\Debug\AQA 02( exaple 1) new.exe
+C:\Users\User\source\repos\AQA 02( exaple 1) new\AQA 02( exaple 1) new\obj\Debug\AQA 02( exaple 1) new.pdb
